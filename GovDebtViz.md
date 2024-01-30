@@ -31,5 +31,6 @@ Each of the following visualizations uses [data from the OECD](https://data.oecd
 
 &nbsp;  
 I chose to make a horizontal bar chart that compares countries according to how much their debt-to-GDP ratio has grown or shrank. While this information can be found within the second visualization, this one, as previously mentioned, conveys the same message in a more convienient way for the viewer that does not require them to perform arithmetic. A horizontal bar chart also does a better job of showing the magnitude of differences from 1995 to 2022 relative to both other countries and its own baseline.
+
 &nbsp;  
 The chart shows that 31 of the 41 included countries experienced a growth in debt as a percentage of GDP, with the remainder saw decline. Japan saw the most dramatic increase with a gain of 161 percentage points, followed by Greece at a +95 points and the United States at +50 points. At the opposite end of the spectrum are Denmark with a 47 point decrease, tailed by Belgium at -37 points and the Netherlands at -32 points.
