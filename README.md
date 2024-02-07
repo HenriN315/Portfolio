@@ -15,3 +15,4 @@ I want bolster my ability to communicate about large, complex problems in ways t
 ### Final Project
 ### [Visualizing Government Debt Using Tableau](/GovDebtViz.md)
 ### [Tableau Tutorial](IntroToTableau.md)
+### [Critique by Redesign; CEO Compensation](CeoCompensation.md)
