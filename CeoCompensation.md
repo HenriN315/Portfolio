@@ -67,4 +67,4 @@ I wanted to experiment with the ideas my interviewees brought up, namely using i
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-In the future, I will experiment with label placement and icon generation. I truly believe that using icons, as per the feedback, would make the ratios over the years much more clear, let alone intuitive, than circles. 
+In the future, I will experiment with label placement and icon generation. I truly believe that using icons, as per the feedback, would make the ratios over the years much more clear, let alone intuitive, than circles. I would have also liked for there to be a single pane/window for my visualization, where you could use the scroll wheel to see icons added and subtracted as you scroll through different years. Later, I will try to re-recreate this so I can better realize my ideas.
