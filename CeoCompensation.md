@@ -1,6 +1,6 @@
 # Critique by Redesign
 ## Original Visual
-![Original Ceo-to-Worker Compensation Ratio](CEO original line chart.png)
+![Original Ceo-to-Worker Compensation Ratio](CeoOriginal.png)
 Source: [Economic Policy Institute](https://www.epi.org/publication/ceo-compensation-surged-14-in-2019-to-21-3-million-ceos-now-earn-320-times-as-much-as-a-typical-worker/)
 I chose this visualization for two reasons. First, it is good, generally speaking. It accurately conveys the information it intends to and backs up the message of the article, all while being aesthetically pleasing (or at least easy on the eye) and intuitive. Redesigning a good visualization is much more difficult that redesigning a bad one. The second reason is that, while it is accurate, I did not think that it did a great job at conveying the magnitude of the disparity between CEOs and typical workers. I wanted to try my hand at something that delivered the same information in a more striking way.
 
