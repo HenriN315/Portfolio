@@ -66,3 +66,5 @@ I wanted to experiment with the ideas my interviewees brought up, namely using i
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+In the future, I will experiment with label placement and icon generation. I truly believe that using icons, as per the feedback, would make the ratios over the years much more clear, let alone intuitive, than circles. 
