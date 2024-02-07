@@ -2,6 +2,7 @@
 ## Original Visual
 ![Original Ceo-to-Worker Compensation Ratio](CeoOriginal.png)
 Source: [Economic Policy Institute](https://www.epi.org/publication/ceo-compensation-surged-14-in-2019-to-21-3-million-ceos-now-earn-320-times-as-much-as-a-typical-worker/)
+
 I chose this visualization for two reasons. First, it is good, generally speaking. It accurately conveys the information it intends to and backs up the message of the article, all while being aesthetically pleasing (or at least easy on the eye) and intuitive. Redesigning a good visualization is much more difficult that redesigning a bad one. The second reason is that, while it is accurate, I did not think that it did a great job at conveying the magnitude of the disparity between CEOs and typical workers. I wanted to try my hand at something that delivered the same information in a more striking way.
 
 ## Critique of the Original
@@ -21,7 +22,7 @@ Completeness: 8. While the emphasis is on the amount made in excess of the typic
 ## Sketching a Solution
 As I previously mentioned, I wanted to create a visualization that did a better job drawing attention to just how mind-boggling the disparity between CEO and workers' compensation is. Moving away from a technical support graphic to a statement piece, this would generally appeal to a different audience. The type of thing I was going for was something that might be published in an online news article.
 
-[Initial Sketch](CompSketch.jpg)
+![Initial Sketch](CompSketch.jpg)
 
 By using shapes of different size, I thought I could do a better job of conveying that disparity than with a simple line graph. A bar chart could have also sufficed, but I had already decided that I wanted to do something very different, and producing something as foreign as possible definitely could not be done in a bar graph. 
 
@@ -52,3 +53,16 @@ Student B, 24, MSPPM:
 -Maybe use icons, like squares or little people, instead of circles.
 
 There was a lot of overlap in the feedback. I agreed with them that using icons, either squares or little stick men, might be better at reinforcing the idea of ratios and not pure earnings in dollars. They also both said that the overall idea was very clearly demonstrated by my sketch, and that the shock factor of the disparity was well evoked by the design. However, something I learned was that some people think it is more intuitive (or sensible) orient it horizontally while others would prefer vertically. Similarly, they disagreed on the rounding.
+
+## Final Redesign
+I wanted to experiment with the ideas my interviewees brought up, namely using icons instead of circle volume to represent the magnitude of the ratio. However, I am not skilled enough with Tableau to fully implement these ideas. I ended up creating what is mostly the same graphic, since most of the feedback was positive.
+
+<div class='tableauPlaceholder' id='viz1707281306799' style='position: relative'><noscript><a href='#'><img alt='Realized CEO Compensation Balloons Compared to Typical WorkersData Source: Economic Policy Institute ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;CE&#47;CEOCompensation_17072810368400&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='CEOCompensation_17072810368400&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;CE&#47;CEOCompensation_17072810368400&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1707281306799');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
