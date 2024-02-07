@@ -35,7 +35,7 @@ As for the color, yellow and blue are my go-to visualization colors. Next to eac
 ## Feedback on my Sketch
 I interviewed two fellow CMU Heinz students for feedback on my sketch. Overall, it was very positive, and most of what they said were in alignment with one another. Main takeaways are given below.
 
-Student A, 26, MSPPM:
+**Student A, 26, MSPPM**:
 
 -On first glance, the graphic makes sense. CEO compensation has definitely gotten bigger over the past half-century.
 
@@ -50,7 +50,7 @@ Student A, 26, MSPPM:
 -Many little squares might be better for reflecting ratios.
 
 
-Student B, 24, MSPPM:
+**Student B, 24, MSPPM**:
 
 -Using the word ballooned is making a judgement statement. Makes sense for the context.
 
