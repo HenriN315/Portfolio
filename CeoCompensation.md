@@ -36,21 +36,36 @@ As for the color, yellow and blue are my go-to visualization colors. Next to eac
 I interviewed two fellow CMU Heinz students for feedback on my sketch. Overall, it was very positive, and most of what they said were in alignment with one another. Main takeaways are given below.
 
 Student A, 26, MSPPM:
+
 -On first glance, the graphic makes sense. CEO compensation has definitely gotten bigger over the past half-century.
+
 -It might work better horizontally, but keeping it vertical prevents it from looking like one is arbitrarily "better" or "more" because it is positioned higher than the other.
+
 -Typical worker compensation looks like it has not grown at all, which is not true. Is there a way to change this so the proportions grow according to earnings specifically?
+
 -Colors are good, but yellow may be hard to see depending on the hue.
+
 -Keep the numbers unrounded. Specificity is good with quantitative data.
+
 -Many little squares might be better for reflecting ratios.
 
+
 Student B, 24, MSPPM:
+
 -Using the word ballooned is making a judgement statement. Makes sense for the context.
+
 -Very clear how much the disparity has grown.
+
 -Clarify whether things are adjusted for inflation, if its how much they make a year, and what CEO compensation means exactly.
+
 -On a web page, horizontal might be better so it can take up the whole screen. When its vertical, it might be so huge that you'll want to scroll past it.
+
 -Include the word "ratio" specifically.
+
 -Maybe you should round the numbers.
+
 -Maybe use icons, like squares or little people, instead of circles.
+
 
 There was a lot of overlap in the feedback. I agreed with them that using icons, either squares or little stick men, might be better at reinforcing the idea of ratios and not pure earnings in dollars. They also both said that the overall idea was very clearly demonstrated by my sketch, and that the shock factor of the disparity was well evoked by the design. However, something I learned was that some people think it is more intuitive (or sensible) orient it horizontally while others would prefer vertically. Similarly, they disagreed on the rounding.
 
