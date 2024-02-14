@@ -25,9 +25,15 @@ I also want to do something a bit more dramatic, a bit more in-your-face to demo
 ## The Data
 I plan to use three datasets to generate my visuals.
 
-+ Trawl records and biomass records of sunflower starfish from before and after the wasting syndrome pandemic ([Caldwell et al., 2019](https://doi.org/10.6084/m9.figshare.7300409.v3))
-+ Kelp forest aerial survey map data ([Bell et al., 2024](https://doi.org/10.6073/pasta/2c1218b7ebe6967da52000adf02f6a8b))
-+ Sea Otter Census data ([Tinker & Yee, 2020](https://www.sciencebase.gov/catalog/item/5601b6dae4b03bc34f5445ec))
++ Trawl records and biomass records of sunflower starfish from before and after the 2013 onset of the starfish wasting syndrome pandemic ([Caldwell et al., 2019](https://doi.org/10.6084/m9.figshare.7300409.v3))
++ Kelp forest aerial survey map data from 1984 until 2024 (ongoing) ([Bell et al., 2024](https://doi.org/10.6073/pasta/2c1218b7ebe6967da52000adf02f6a8b))
++ Sea Otter Census data from 1985 to 2020 ([Tinker & Yee, 2020](https://www.sciencebase.gov/catalog/item/5601b6dae4b03bc34f5445ec))
+
+I want to join the geographical data of each into one map of the West Coast of the US, focusing on California. I will use this to create various heat maps focusing on the increase or decline of the included species by each Sea Otter Census tract. As previously mentioned, I would like to see how the presence of otters increases resilience of remaining kelp forests along the West Coast.
+Beyond mapping, I also want to create vizualizations that indicate the scale of biomass loss, namely using line charts, bar charts, and unit charts.
+
+## Method & Medium
+For mapping, I plan on using ArcGIS Pro to compile and illustrate data trends. For other vizualizations, I intend on using tableau. For the overall presentation, I will likely use Shorthand, but I may pivot toward ArcGIS Story Maps since that platform may work better with my maps.
 
 ### References
 Bell, T., Cavanaugh, K. & Siegel, D. (2024). SBC LTER: Time series of quarterly NetCDF files of kelp biomass in the canopy from Landsat 5, 7 and 8, since 1984 (ongoing) ver 23. Environmental Data Initiative. https://doi.org/10.6073/pasta/2c1218b7ebe6967da52000adf02f6a8b (Accessed 2024-02-14).
