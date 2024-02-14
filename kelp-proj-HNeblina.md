@@ -14,12 +14,12 @@ For this first sketch, I want to take the annual Sea Otter Census Tract data and
 
 
 
-<img src="otter-sketc12.jpg" alt="TransposedOntoTracts" width="500"/>
+<img src="otter-sketch1.jpg" alt="TransposedOntoTracts" width="500"/>
 To add onto the first sketch, I would also like to join trawl record data of sunflower star fish and (not included in sketch) raster data for aerial kelp forest surveys to see what patterns emerge. As per [Joshua et al. (2021)](https://doi.org/10.1073/pnas.2012493118), I expect to see kelp forests hanging on where otter census tracts contain high densities of sea otter population.
 
 
 
-<img src="otter-sketc32.jpg" alt="HowMuchToEat" width="800"/>
+<img src="otter-sketch3.jpg" alt="HowMuchToEat" width="800"/>
 I also want to do something a bit more dramatic, a bit more in-your-face to demonstrate the scale of the urchin barrens. Here, we have an otter eating what they would normally eat on the left, and on the right is what that otter would have to eat to make up for the missing star fish. With this I hope to demsontrate not only the magnitude of the problem but also that ecosystems, while often resilient, are also sensetive to the removal of key ecological regulators.
 
 ### References
