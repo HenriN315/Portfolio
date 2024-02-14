@@ -10,8 +10,17 @@ Since urchins feed on kelp, predation is required to ensure that urchins do not 
 
 ## Initial Sketches
 ![Just Otter Tracts](otter-sketch2.jpg)
+For this first sketch, I want to take the annual Sea Otter Census Tract data and make a diverging heat map. Just picking two colors, orange could represent tracts where otter populations have decreased since the begining of the census and blue could represent tracts where their populations have increased.
+
+
+
 ![Transposed onto Tracts](otter-sketch1.jpg)
+To add onto the first sketch, I would also like to join trawl record data of sunflower star fish and (not included in sketch) raster data for aerial kelp forest surveys to see what patterns emerge. As per [Joshua et al. (2021)](https://doi.org/10.1073/pnas.2012493118), I expect to see kelp forests hanging on where otter census tracts contain high densities of sea otter population.
+
+
+
 ![How Many to Eat?](otter-sketch3.jpg)
+I also want to do something a bit more dramatic, a bit more in-your-face to demonstrate the scale of the urchin barrens. Here, we have an otter eating what they would normally eat on the left, and on the right is what that otter would have to eat to make up for the missing star fish. With this I hope to demsontrate not only the magnitude of the problem but also that ecosystems, while often resilient, are also sensetive to the removal of key ecological regulators.
 
 ### References
 Gravem, S. A., Heady, W. N., Saccomanno, V. R., Alvstad, K. F., Gehman, A. L. M., Frierson, T. N. & Hamilton, S.L. 2021. *Pycnopodia helianthoides (amended version of 2020 assessment)*. The IUCN Red List of Threatened Species 2021: e.T178290276A197818455. https://dx.doi.org/10.2305/IUCN.UK.2021-1.RLTS.T178290276A197818455.en.
