@@ -10,6 +10,7 @@ Since urchins feed on kelp, predation is required to ensure that urchins do not 
 
 ## Initial Sketches
 ![Just Otter Tracts](otter-sketch2.jpg)
+<img src="otter-sketch2.jpg" alt="drawing" width="200"/>
 For this first sketch, I want to take the annual Sea Otter Census Tract data and make a diverging heat map. Just picking two colors, orange could represent tracts where otter populations have decreased since the begining of the census and blue could represent tracts where their populations have increased.
 
 
