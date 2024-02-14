@@ -12,7 +12,7 @@ I love to train Muay Thai 🥊, lift weights 🏋️‍♂️, play jazz 🎺 (t
 I want bolster my ability to communicate about large, complex problems in ways that are approachable and practical. I am interested in using complex adaptive systems as a link between the ecological and the societal, and being able to create powerful messages with data visualization will be immensely helpful in achieving my goals.
 
 ## Portfolio
-### Final Project
+### [Final Project Part 1: Sketching Kelp Forest Health](kelp-proj-HNeblina.md)
 ### [Visualizing Government Debt Using Tableau](/GovDebtViz.md)
 ### [Tableau Tutorial](IntroToTableau.md)
 ### [Critique by Redesign; CEO Compensation](CeoCompensation.md)
