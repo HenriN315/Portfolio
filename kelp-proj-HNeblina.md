@@ -32,6 +32,8 @@ I plan to use three datasets to generate my visuals.
 I want to join the geographical data of each into one map of the West Coast of the US, focusing on California. I will use this to create various heat maps focusing on the increase or decline of the included species by each Sea Otter Census tract. As previously mentioned, I would like to see how the presence of otters increases resilience of remaining kelp forests along the West Coast.
 Beyond mapping, I also want to create vizualizations that indicate the scale of biomass loss, namely using line charts, bar charts, and unit charts.
 
+Although I have not yet found geographic data on sea urchin barrens to use for mapping, the data I currently have is sufficient to tell my story, and I have no doubt that I can find urchin data over the course of this project.
+
 ## Method & Medium
 For mapping, I plan on using ArcGIS Pro to compile and illustrate data trends. For other vizualizations, I intend on using tableau. For the overall presentation, I will likely use Shorthand, but I may pivot toward ArcGIS Story Maps since that platform may work better with my maps.
 
