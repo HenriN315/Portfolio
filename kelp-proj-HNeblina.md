@@ -8,6 +8,11 @@ I am interested in showing the overall health of kelp forests over time. I want 
 
 Since urchins feed on kelp, predation is required to ensure that urchins do not overgraze and destroy kelp forests entirely. When otter and sunflower sea star populations are at relatively normal levels, kelp forests may fluctuate in size and density but remain stable on average. Since the 1980s, sea otters have been a central focus of marine conservationists, both for their own sake and for the sake of preserving kelp forests. However, in absence of the sunflower sea star (Pycnopodia helianthoides) they are unable to singelhandedly prevent a trophic cascade within kelp ecosystems, leading to the rapid replacement of kelp forests with urchin barrens ([Joshua et al., 2021](https://doi.org/10.1073/pnas.2012493118)). This, in combination with warming waters due to climate change ([Roggers-Bennett & Catton, 2019](https://doi.org/10.1038/s41598-019-51114-y)), has significantly reduced the biomass of kelp forest.
 
+## Initial Sketches
+![Just Otter Tracts](otter-sketch2.jpg)
+![Transposed onto Tracts](otter-sketch1.jpg)
+![How Many to Eat?](otter-sketch3.jpg)
+
 ### References
 Gravem, S. A., Heady, W. N., Saccomanno, V. R., Alvstad, K. F., Gehman, A. L. M., Frierson, T. N. & Hamilton, S.L. 2021. *Pycnopodia helianthoides (amended version of 2020 assessment)*. The IUCN Red List of Threatened Species 2021: e.T178290276A197818455. https://dx.doi.org/10.2305/IUCN.UK.2021-1.RLTS.T178290276A197818455.en.
 
