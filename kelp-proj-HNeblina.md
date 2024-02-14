@@ -9,18 +9,17 @@ I am interested in showing the overall health of kelp forests over time. I want 
 Since urchins feed on kelp, predation is required to ensure that urchins do not overgraze and destroy kelp forests entirely. When otter and sunflower sea star populations are at relatively normal levels, kelp forests may fluctuate in size and density but remain stable on average. Since the 1980s, sea otters have been a central focus of marine conservationists, both for their own sake and for the sake of preserving kelp forests. However, in absence of the sunflower sea star (Pycnopodia helianthoides) they are unable to singelhandedly prevent a trophic cascade within kelp ecosystems, leading to the rapid replacement of kelp forests with urchin barrens ([Joshua et al., 2021](https://doi.org/10.1073/pnas.2012493118)). This, in combination with warming waters due to climate change ([Roggers-Bennett & Catton, 2019](https://doi.org/10.1038/s41598-019-51114-y)), has significantly reduced the biomass of kelp forest.
 
 ## Initial Sketches
-![Just Otter Tracts](otter-sketch2.jpg)
-<img src="otter-sketch2.jpg" alt="drawing" width="200"/>
+<img src="otter-sketch2.jpg" alt="JustOtterTracts" width="500"/>
 For this first sketch, I want to take the annual Sea Otter Census Tract data and make a diverging heat map. Just picking two colors, orange could represent tracts where otter populations have decreased since the begining of the census and blue could represent tracts where their populations have increased.
 
 
 
-![Transposed onto Tracts](otter-sketch1.jpg)
+<img src="otter-sketc12.jpg" alt="TransposedOntoTracts" width="500"/>
 To add onto the first sketch, I would also like to join trawl record data of sunflower star fish and (not included in sketch) raster data for aerial kelp forest surveys to see what patterns emerge. As per [Joshua et al. (2021)](https://doi.org/10.1073/pnas.2012493118), I expect to see kelp forests hanging on where otter census tracts contain high densities of sea otter population.
 
 
 
-![How Many to Eat?](otter-sketch3.jpg)
+<img src="otter-sketc32.jpg" alt="HowMuchToEat" width="800"/>
 I also want to do something a bit more dramatic, a bit more in-your-face to demonstrate the scale of the urchin barrens. Here, we have an otter eating what they would normally eat on the left, and on the right is what that otter would have to eat to make up for the missing star fish. With this I hope to demsontrate not only the magnitude of the problem but also that ecosystems, while often resilient, are also sensetive to the removal of key ecological regulators.
 
 ### References
