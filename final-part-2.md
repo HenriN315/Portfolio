@@ -11,10 +11,10 @@ Talk about how important kelp forests are
 Part 2
 Introducing Predators
 + Otters are a keystone species of kelp forests in California
-        + They eat urchins
-        + They help prevent urchins from over grazing on kelp forests
-        + They are also cute! 
-        + Otters bring much tourism
+    + They eat urchins
+    + They help prevent urchins from over grazing on kelp forests
+    + They are also cute! 
+    + Otters bring much tourism
 * Sunflower Sea Star
     + Also a keystone predator in kelp forest ecosystems
     + Are the top predator of purple sea urchin
