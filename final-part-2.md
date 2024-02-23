@@ -1,6 +1,7 @@
 # Final Project Part 2: Storyboards & Wireframes
 ## Storyboarding
 
+Below is my storyboard for the project. However, all vizualizations are currently held [here](https://carnegiemellon.shorthandstories.com/070951e8-c3d6-49d9-8166-4a097fa5b8f1/index.html) for now.
 Part 1
 Talk about how important kelp forests are
 * Harbor lots of biodiversity
