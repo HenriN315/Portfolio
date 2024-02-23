@@ -13,10 +13,10 @@ Introducing Predators
         + They help prevent urchins from over grazing on kelp forests
         + They are also cute! 
         + Otters bring much tourism
-+ Sunflower Sea Star
-        ++ Also a keystone predator in kelp forest ecosystems
-        ++ Are the top predator of purple sea urchin
-        ++ Abundant up until the mid 2000s.
+* Sunflower Sea Star
+    + Also a keystone predator in kelp forest ecosystems
+    + Are the top predator of purple sea urchin
+    + Abundant up until the mid 2000s.
 Part 3
 Predator populations
 + Otters used to number in the hundreds of thousands, but since the fur trade entered full swing, their numbers were reduced thousands-fold down to only some hundred individuals!
