@@ -2,6 +2,7 @@
 ## Storyboarding
 
 Below is my storyboard for the project. However, all vizualizations are currently held [here](https://carnegiemellon.shorthandstories.com/070951e8-c3d6-49d9-8166-4a097fa5b8f1/index.html) for now.
+
 Part 1
 Talk about how important kelp forests are
 * Harbor lots of biodiversity
@@ -40,7 +41,7 @@ Call to action
 
 
 ### On missing data visualization drafts
-I have no current visualizations for kelp disappearance. However, I have properly processed and sorted approximately 83 million data entries over 40 years on kelp biomass. Because of the extremely large data files, using these entries has proven time-consuming (7 hours for basic sorting). But, now that all the data are sorted, there I will be able to show the disappearance of kelp forests since the beginning of the sea star wasting disease endemic.
+I have no current visualizations for kelp disappearance. However, I have properly processed and sorted approximately 83 million data entries over 40 years on kelp biomass. Because of the extremely large data files, using these entries has proven time-consuming (7 hours for basic sorting). But, now that all the data are cleaned and sorted, I will be able to show the disappearance of kelp forests since the beginning of the sea star wasting disease endemic.
 
 ## Protocol for Interviews
 For each interview, I shared with them the draft of my shorthand page, with visualizations. I let them read the parts that were more fleshed out, and stopped them when there were places with missing context. I explained a bit about the context overall, but I did not explicitly tell them what the maps/graphics were representing because I wanted to hear from them what they thought they were about.
@@ -98,3 +99,13 @@ Should I elaborate more on the food web/trophic cascade?
 1. Yes, talk more about this. That would give a much more in-depth understanding of the issue.
 2. Do a deeper overview of the food chain and trophic cascade. That would really help solidify the explanation of why this is important and how the mechanisms work.
 3. Yes, talk more about the trophic cascade. You can do that with a map overlaying multiple species' patterns.
+
+## Changes to Make in Light of Feedback
+One of the biggest pieces of recurring feedback was that my visualizations need keys. This did not surprise me given that they are all rought drafts. What did surprise me a little bit was that viewers were not always sure how change was intended to be represented with the visualizations.
+
+Another trend was joining data sets together. The consensus was that showing the change in abundance for all species over time on the same map or graphic would be the most convincing of trends and the interrelatedness of different aspects of the problem. I will add maps and line charts to show these data concurrently.
+
+The most useful, albeit unfortunate, piece of feedback was that I did not do a good job of conveying the **magnitude** of the problem. It was lost on them that 90% of sunflower sea stars had perished, and the broad extent of kelp deforestation. To correct this, I will try to use more striking images (e.g. images of urchen barrens compared to healthy kelp canopy) as well as data visualizations that dramatize the changes over time, like a unit chart of some sort. 
+
+
+[Back to Portfolio Page](README.md)
