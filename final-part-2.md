@@ -62,4 +62,11 @@ Who do you think is the target audience?
 3. Young people, educators, general public. Anybody who has interest in marine ecology or the environment. Language is approachable and inviting.
 
 Changes to Data Visualizations?
-1. Get red of redundant/irrelevant info in your maps. I want to be able to zoom in. Needs a legend. Would be nice to be able to zoom in.
+1. Get red of redundant/irrelevant info in your maps. I want to be able to zoom in. Needs a legend. Would be nice to be able to zoom in. Eliminate unimportant city names. You could change the color scheme to something more indicative of change for any heat maps you make.
+2. Thinks definitely need keys, otherwise it is hard to tell what is going on. Need clearer markers of growth and decline of populations, not just one point in time. Also, declare when the sea star wasting disease started. (Unrelated to this question, but he also indicated that I should include more information on why kelp is important)
+3. Overall very easy on the eyes, but needs a key/legend. Putting in big cities is helpful to identify where exactly we are looking. Also, depending on the audience, it might be helpful to label which ocean we are looking at. Using dots is not the best way to indicate differences in density/abundance--stick with heat map.
+
+How should I integrate different data sets with each other?
+1. It might make sense to combine the sea otter tracts with other data so that the tracts can make a heat map of other species where the otters live.
+2. You should add information together into one vizualization. Overlay otter population with kelp population and sea star population. That way you can start to make more connections.
+3. Overlaying different information from each species onto one map might be helpful to make better connections.
