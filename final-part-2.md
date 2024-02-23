@@ -70,3 +70,23 @@ How should I integrate different data sets with each other?
 1. It might make sense to combine the sea otter tracts with other data so that the tracts can make a heat map of other species where the otters live.
 2. You should add information together into one vizualization. Overlay otter population with kelp population and sea star population. That way you can start to make more connections.
 3. Overlaying different information from each species onto one map might be helpful to make better connections.
+
+How are the colors of the website overall?
+1. Overall, very good and cohesive, fitting of the theme and don't cause disconnections between sections.
+2. Colors are good. The visuals are good and go well with the information they appear with. The whole thing is really easy to read, very easy on the eyes and makes logical sense.
+3. Colors of the website are great. However, some of the colors in the visualization should be more distinct. Maybe fewer categories on heat maps to be able to make clearer distinctions (less gradient, more clear groups).
+
+How important does this issue feel after seeing my storyboard?
+1. A little important, but not that much. Not life or death. If you switched the voice to be more action-oriented, that could make a difference. Images of urchin barrens would create a much bigger impact. (As a note, on further conversation I learned that I failed to convey the magnitude of the problem, that 90% of the global population of sunflower sea stars was eliminated by the disease)
+2. It feels pretty important, but not super important. If you could get the audience to have a better sense of the scale, then it would appear more important.
+3. Feels pretty important because you explain how and why things are disappearing. That in and of itself tells me this is important. Talking about ecotourism, the environment, and the aesthetic value gives the problem weight. The transitions between different segments also help focus the audience on important aspects of the story.
+
+Besides maps, what other visualizations would make sense to convey this story?
+1. Using a line chart over time for otters and sea stars. Line graph would be good to draw connections between urchin and sea star populations as well.
+2. Use some type of line chart showing decline of different species.
+3. Doing some sort of overlap between sea star wasting disease prealence/sea star mortality and kelp area would be good. Tat makes the connection between kelp deforestation and sea star wasting disease more clear. For non-map things, try using a bar chart using the same data and same message.
+
+Should I elaborate more on the food web/trophic cascade?
+1. Yes, talk more about this. That would give a much more in-depth understanding of the issue.
+2. Do a deeper overview of the food chain and trophic cascade. That would really help solidify the explanation of why this is important and how the mechanisms work.
+3. Yes, talk more about the trophic cascade. You can do that with a map overlaying multiple species' patterns.
