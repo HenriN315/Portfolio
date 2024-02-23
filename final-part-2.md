@@ -2,7 +2,7 @@
 ## Storyboarding
 
 Talk about how important kelp forests are
-    + Harbor lots of biodiversity
+    * Harbor lots of biodiversity
     + Provides buffer for coastal areas from extreme weather
     + Kelp industry booming, kelp products growing more prominent
     + Is home to protected animal species
