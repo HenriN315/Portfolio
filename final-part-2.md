@@ -109,6 +109,3 @@ One of the biggest pieces of recurring feedback was that my visualizations need 
 Another trend was joining data sets together. The consensus was that showing the change in abundance for all species over time on the same map or graphic would be the most convincing of trends and the interrelatedness of different aspects of the problem. I will add maps and line charts to show these data concurrently.
 
 The most useful, albeit unfortunate, piece of feedback was that I did not do a good job of conveying the **magnitude** of the problem. It was lost on them that 90% of sunflower sea stars had perished, and the broad extent of kelp deforestation. To correct this, I will try to use more striking images (e.g. images of urchen barrens compared to healthy kelp canopy) as well as data visualizations that dramatize the changes over time, like a unit chart of some sort. 
-
-
-[Back to Portfolio Page](README.md)
