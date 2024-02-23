@@ -37,3 +37,29 @@ What does this mean for kelp?
 Part 5
 Call to action
 + Donate to organizations funding research on sea star wasting disease, kelp ecosystems, and sea otter management practices.
+
+
+### On missing data visualization drafts
+I have no current visualizations for kelp disappearance. However, I have properly processed and sorted approximately 83 million data entries over 40 years on kelp biomass. Because of the extremely large data files, using these entries has proven time-consuming (7 hours for basic sorting). But, now that all the data are sorted, there I will be able to show the disappearance of kelp forests since the beginning of the sea star wasting disease endemic.
+
+## User Interviews
+Below are a list of questions asked to all interviewees and their responses, as well as a description of the interviewees.
+
+Interviewee 1: Classmate, masters of public policy student, early 20s
+Interviewee 2: Kinesiology student, bachelors degree, early 20s
+Interviewee 3: PhD candidate in US history, mid 50s
+
+Questions
+
+What do you think of the tone so far?
+1. Persuasive, but a bit passive. Call to action is nice, and the story leads in a clear direction.
+2. Tone is good. Very consistent. Does not feel sanitized or clinical. Still feels scientific and serious, but like you are communicating to non-experts.
+3. Overall good, but there are some things (in the shorthand version) that need editing. Emphasize the importance of things more--"more important than what?"
+
+Who do you think is the target audience?
+1. Audience seems like the general public. Environmentally focused indivisuals, but still general public. Otter lovers.
+2. Non-experts who are concerned about the environment, especially marine life. People in the pacific coast.
+3. Young people, educators, general public. Anybody who has interest in marine ecology or the environment. Language is approachable and inviting.
+
+Changes to Data Visualizations?
+1. Get red of redundant/irrelevant info in your maps. I want to be able to zoom in. Needs a legend. Would be nice to be able to zoom in.
