@@ -13,6 +13,7 @@ I want bolster my ability to communicate about large, complex problems in ways t
 
 ## Portfolio
 ### [Final Project Part 1: Sketching Kelp Forest Health](kelp-proj-HNeblina.md)
+### [Final Project Part 2: Storyboarding Kelp Forests](final-part-2.md)
 ### [Visualizing Government Debt Using Tableau](/GovDebtViz.md)
 ### [Tableau Tutorial](IntroToTableau.md)
 ### [Critique by Redesign; CEO Compensation](CeoCompensation.md)
