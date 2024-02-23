@@ -1,4 +1,6 @@
 # Final Project Part 1
+[Skip to Part 2](final-part-2.md)
+[Back to Portfolio](README.md)
 ## Intro and Outline
 At first, I wanted to tell a story about the importance of predators in ecosystems and how they intersect with human life. I was going to pick a few predators--some more well known (grey wolves, otters) than others (martens, sunflower sea stars, wolverines)--and document how changes in their population and distribution change the ecosystem and landscape.
 
