@@ -42,12 +42,20 @@ Call to action
 ### On missing data visualization drafts
 I have no current visualizations for kelp disappearance. However, I have properly processed and sorted approximately 83 million data entries over 40 years on kelp biomass. Because of the extremely large data files, using these entries has proven time-consuming (7 hours for basic sorting). But, now that all the data are sorted, there I will be able to show the disappearance of kelp forests since the beginning of the sea star wasting disease endemic.
 
+## Protocol for Interviews
+For each interview, I shared with them the draft of my shorthand page, with visualizations. I let them read the parts that were more fleshed out, and stopped them when there were places with missing context. I explained a bit about the context overall, but I did not explicitly tell them what the maps/graphics were representing because I wanted to hear from them what they thought they were about.
+
+My goal with my questions was to identify who they thought the target audience was, if the shorthand page was clear and readable overall, how I might better represent data over time, and what novel visualization types might be appropriate in addition to mapping. In my questioning, I would frequently ask my questions (below) plainly and see what they had to say. Then, I would tell them my expectations about how I wanted the viewer to feel, and I would ask whether I achieved that, with mixed results of whether or not I hit the mark.
+
 ## User Interviews
 Below are a list of questions asked to all interviewees and their responses, as well as a description of the interviewees.
 
 Interviewee 1: Classmate, masters of public policy student, early 20s
+
 Interviewee 2: Kinesiology student, bachelors degree, early 20s
+
 Interviewee 3: PhD candidate in US history, mid 50s
+
 
 Questions
 
