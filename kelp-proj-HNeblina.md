@@ -45,6 +45,8 @@ Although I have not yet found geographic data on sea urchin barrens to use for m
 ## Method & Medium
 For mapping, I plan on using ArcGIS Pro to compile and illustrate data trends. For other vizualizations, I intend on using tableau. For the overall presentation, I will likely use Shorthand, but I may pivot toward ArcGIS Story Maps since that platform may work better with my maps.
 
+[Back to Portfolio](README.md)
+
 ### References
 Bell, T., Cavanaugh, K. & Siegel, D. (2024). SBC LTER: Time series of quarterly NetCDF files of kelp biomass in the canopy from Landsat 5, 7 and 8, since 1984 (ongoing) ver 23. Environmental Data Initiative. [https://doi.org/10.6073/pasta/2c1218b7ebe6967da52000adf02f6a8b](https://doi.org/10.6073/pasta/2c1218b7ebe6967da52000adf02f6a8b)
 
