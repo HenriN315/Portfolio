@@ -23,3 +23,5 @@ I lost all my progress and had to start over--not only on this, but on every oth
 
 ## Finishing the Project
 One of the best things I got out of my interviews was insight as to who my target audience would be. Before the interviews, I was unsure of who exactly I would want to see my website. Policymakers as an audience didn't make much sense. Besides funnelling money into research, they couldn't really do anything about it. After all, how would they help sick starfish at the bottom of the sea? An academic audience could have worked, but after losing all my progress I didn't have the time to create something that would be meaningful to scientists. My interviewees, though, had made comments about where this could be shown: "this is like an aquarium exhibit."
+
+From then on, I designed my website as if it was going to be shown at the Mandalay Ba
