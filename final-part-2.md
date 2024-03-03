@@ -1,7 +1,7 @@
 # Final Project Part 2: Storyboards & Wireframes
 [Back to Part 1](kelp-proj-HNeblina.md)
 
-[Skip to Part 3](final-proj-part-3)
+[Skip to Part 3](final-proj-part-3.md)
 
 [My Kelp Website](https://carnegiemellon.shorthandstories.com/070951e8-c3d6-49d9-8166-4a097fa5b8f1/index.html)
 
