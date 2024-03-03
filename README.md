@@ -21,6 +21,6 @@ I want bolster my ability to communicate about large, complex problems in ways t
 ### Making my Portfolio Projects
 [Kelp Deforestation Part 1: Sketching Kelp Forest Health](kelp-proj-HNeblina.md)
 
-[Kelp Deforestation Part 2: Storyboarding Kelp Forests](final-proj-part-2.md)
+[Kelp Deforestation Part 2: Storyboarding Kelp Forests](final-part-2.md)
 
 [kelp Deforestation Part 3: Data, Setbacks, and a Website](final-proj-part-3.md)
