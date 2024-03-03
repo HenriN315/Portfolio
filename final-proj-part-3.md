@@ -1,7 +1,7 @@
 # Final Project Part 3: Data Processing, Setbacks, and a Website
 [Back to Part 1](kelp-proj-HNeblina.md)
 
-[Back to Part 2](final-part-2)
+[Back to Part 2](final-part-2.md)
 
 [Back to Portfolio](README.md)
 
