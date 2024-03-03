@@ -1,7 +1,12 @@
 # Final Project Part 1
 [Skip to Part 2](final-part-2.md)
 
+[Skip to Part 3](final-proj-part-3)
+
+[My Kelp Website](https://carnegiemellon.shorthandstories.com/070951e8-c3d6-49d9-8166-4a097fa5b8f1/index.html)
+
 [Back to Portfolio](README.md)
+
 ## Intro and Outline
 At first, I wanted to tell a story about the importance of predators in ecosystems and how they intersect with human life. I was going to pick a few predators--some more well known (grey wolves, otters) than others (martens, sunflower sea stars, wolverines)--and document how changes in their population and distribution change the ecosystem and landscape.
 
