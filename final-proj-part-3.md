@@ -18,7 +18,8 @@ I wrote some Python code in a notebook within my project. One cell selected all 
 
 It was at this point that I spilled water all over my laptop.
 
-I lost all my progress and had to start over--not only on this, but on every other project I had been working on up to that point. This meant that I had to scale down my ambitions for my project, but I was confident I would still be able to use the data I wanted, just not with as much depth. I rewrote my python code, processed the NetCDF data again, and gatherred the rest of my data from other sources. At that point, I could implement some of the changes that I wanted to make since Part 2.
+I lost all my progress and had to start over--not only on this, but on every other project I had been working on up to that point. This meant that I had to scale down my ambitions for my project, but I was confident I would still be able to use the data I wanted, just not with as much depth. I rewrote my python code, processed the NetCDF data again, and gatherred the rest of my data from other sources. At that point, I could implement some of the changes that I wanted to make since Part 2, albeit with significantly less sleep.
 
 
-## 
+## Finishing the Project
+One of the best things I got out of my interviews was insight as to who my target audience would be. Before the interviews, I was unsure of who exactly I would want to see my website. Policymakers as an audience didn't make much sense. Besides funnelling money into research, they couldn't really do anything about it. After all, how would they help sick starfish at the bottom of the sea? An academic audience could have worked, but after losing all my progress I didn't have the time to create something that would be meaningful to scientists. My interviewees, though, had made comments about where this could be shown: "this is like an aquarium exhibit."
