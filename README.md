@@ -11,7 +11,7 @@ I love to train Muay Thai 🥊, lift weights 🏋️‍♂️, play jazz 🎺 (t
 ## What I Hope to Learn
 I want bolster my ability to communicate about large, complex problems in ways that are approachable and practical. I am interested in using complex adaptive systems as a link between the ecological and the societal, and being able to create powerful messages with data visualization will be immensely helpful in achieving my goals.
 
-## Portfolio
+## Projects & Visualizations
 ### [Kelp Deforestation: How and Why Kelp Forests are Disappearing](https://carnegiemellon.shorthandstories.com/070951e8-c3d6-49d9-8166-4a097fa5b8f1/index.html)
 ### [Visualizing Government Debt Using Tableau](/GovDebtViz.md)
 ### [Tableau Tutorial](IntroToTableau.md)
