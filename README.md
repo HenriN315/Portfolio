@@ -13,6 +13,7 @@ I want bolster my ability to communicate about large, complex problems in ways t
 
 ## Projects & Visualizations
 ### [Kelp Deforestation: How and Why Kelp Forests are Disappearing](https://carnegiemellon.shorthandstories.com/070951e8-c3d6-49d9-8166-4a097fa5b8f1/index.html)
+### [Landscape Alteration in Eastern Kentucky](https://henrin315.github.io/Landscape-Alteration-in-Eastern-Kentucky/)
 ### [Mining in Northwestern Perry County, KY](KY-Perry-Mining.md)
 ### [Visualizing Government Debt Using Tableau](/GovDebtViz.md)
 ### [Tableau Tutorial](IntroToTableau.md)
