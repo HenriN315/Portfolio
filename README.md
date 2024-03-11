@@ -15,10 +15,10 @@ I want bolster my ability to communicate about large, complex problems in ways t
 ### [Kelp Deforestation: How and Why Kelp Forests are Disappearing](https://carnegiemellon.shorthandstories.com/070951e8-c3d6-49d9-8166-4a097fa5b8f1/index.html)
 ### [Landscape Alteration in Eastern Kentucky](https://henrin315.github.io/Landscape-Alteration-in-Eastern-Kentucky/)
 ### [Kentucky Land Cover Types and UKY Canopy Height](https://henrin315.github.io/geo409-field-trip-maps/)
-### [Mining in Northwestern Perry County, KY](KY-Perry-Mining.md)
 ### [Visualizing Government Debt Using Tableau](/GovDebtViz.md)
-### [Tableau Tutorial](IntroToTableau.md)
 ### [Critique by Redesign; CEO Compensation](CeoCompensation.md)
+### [Mining in Northwestern Perry County, KY](KY-Perry-Mining.md)
+### [Tableau Tutorial](IntroToTableau.md)
 ### [3-D Keeneland Racetrack](Keeneland-Race.md)
 ### [Eastern Kentucky 2022 Flood Site](Eastern-Kentucky-2022-Flood-Site.md)
 
