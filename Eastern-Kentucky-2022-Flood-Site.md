@@ -3,7 +3,6 @@
 This body of water was a site of major flooding during the 2022 summer flooding across eastern Kentucky.
 
 ![Flood site](eky2022flood.jpg)     
-*Caption of Map*
 
 [Link to high-resolution version](eky2022flood.pdf)     
 
