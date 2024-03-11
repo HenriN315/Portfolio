@@ -7,6 +7,6 @@ Over the course of nearly two decades, the mountainous landscape in Perry County
 ![Mountaintop removal and valley filling in NW Perry County](perrymining.jpg)     
 *Mountaintop removal and valley filling in NW Perry County*
 
-[Link to high-resolution version](perrymining.pdf)     
+## [Link to high-resolution version](perrymining.pdf)     
 
 Map and repository created by Henri Neblina (HenriN315) using data from kyfromabove.ky.gov
