@@ -19,6 +19,7 @@ I want bolster my ability to communicate about large, complex problems in ways t
 ### [Visualizing Government Debt Using Tableau](/GovDebtViz.md)
 ### [Tableau Tutorial](IntroToTableau.md)
 ### [Critique by Redesign; CEO Compensation](CeoCompensation.md)
+### [3-D Keeneland Racetrack](Keeneland-Race.md)
 
 
 ### Making my Portfolio Projects
