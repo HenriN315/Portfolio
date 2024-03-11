@@ -20,7 +20,7 @@ I want bolster my ability to communicate about large, complex problems in ways t
 ### [Tableau Tutorial](IntroToTableau.md)
 ### [Critique by Redesign; CEO Compensation](CeoCompensation.md)
 ### [3-D Keeneland Racetrack](Keeneland-Race.md)
-### [Eastern Kentucky 2022 Flood Site](Eastern-KY-2022-Flood-Site.md)
+### [Eastern Kentucky 2022 Flood Site](Eastern-Kentucky-2022-Flood-Site.md)
 
 
 ### Making my Portfolio Projects
