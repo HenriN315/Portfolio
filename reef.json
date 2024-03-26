@@ -50,6 +50,15 @@
   },
   {
     "featureType": "landscape.man_made",
+    "elementType": "geometry.fill",
+    "stylers": [
+      {
+        "color": "#0d89aa"
+      }
+    ]
+  },
+  {
+    "featureType": "landscape.man_made",
     "elementType": "geometry.stroke",
     "stylers": [
       {
