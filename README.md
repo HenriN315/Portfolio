@@ -17,6 +17,7 @@ I want bolster my ability to communicate about large, complex problems in ways t
 ### [Kentucky Land Cover Types and UKY Canopy Height](https://henrin315.github.io/geo409-field-trip-maps/)
 ### [Visualizing Government Debt Using Tableau](/GovDebtViz.md)
 ### [Critique by Redesign; CEO Compensation](CeoCompensation.md)
+### [Reef Check Map](reefcheckmap.md)
 ### [Mining in Northwestern Perry County, KY](KY-Perry-Mining.md)
 ### [Tableau Tutorial](IntroToTableau.md)
 ### [3-D Keeneland Racetrack](Keeneland-Race.md)
