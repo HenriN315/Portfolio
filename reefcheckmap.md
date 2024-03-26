@@ -8,5 +8,4 @@
 ![Reef Map Mid](reefmappmid.png)
 ![Reef Map Close](reefmapclose.png)
 
-# Bid & Feature-Color Library
-[reefpdf](reef.pdf)
+# [Bid & Feature-Color Library](reef.pdf)
