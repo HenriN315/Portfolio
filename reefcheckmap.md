@@ -1,3 +1,4 @@
+# [Bid & Feature-Color Library](reef.pdf)
 # [JSON file](reef.json)
 
 # Color Palette
@@ -7,5 +8,3 @@
 ![Reef Map Far](reefmaplarge.png)
 ![Reef Map Mid](reefmappmid.png)
 ![Reef Map Close](reefmapclose.png)
-
-# [Bid & Feature-Color Library](reef.pdf)
