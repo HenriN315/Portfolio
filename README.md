@@ -1,6 +1,6 @@
 # Portfolio
 A collection of projects I've worked on that demonstrate my skills and growth.
-### [Resume](https://github.com/HenriN315/Portfolio/edit/main/README.md)
+### [Resume](Henri Neblina Resume _9_14_2025)
 
 ## About Me
 Hello! My name is Henri, and I am passionate about the environment. I hope to use environmental policy as a route to changing the way we interact with natural systems, fight climate change, and contribute to a truly sustainable world.
