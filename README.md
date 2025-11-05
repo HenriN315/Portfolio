@@ -19,13 +19,13 @@ I want bolster my ability to communicate about large, complex problems in ways t
 ### [Landscape Alteration in Eastern Kentucky](https://henrin315.github.io/Landscape-Alteration-in-Eastern-Kentucky/)
 ### [Kentucky Land Cover Types and UKY Canopy Height](https://henrin315.github.io/geo409-field-trip-maps/)
 ### [Cyclist Collisions in Ottawa](ottawacrashes.md)
-### [Visualizing Government Debt Using Tableau](/GovDebtViz.md)
-### [Critique by Redesign; CEO Compensation](CeoCompensation.md)
 ### [Reef Check Map](reefcheckmap.md)
 ### [Mining in Northwestern Perry County, KY](KY-Perry-Mining.md)
-### [Tableau Tutorial](IntroToTableau.md)
 ### [3-D Keeneland Racetrack](Keeneland-Race.md)
 ### [Eastern Kentucky 2022 Flood Site](Eastern-Kentucky-2022-Flood-Site.md)
+### [Visualizing Government Debt Using Tableau](/GovDebtViz.md)
+### [Critique by Redesign; CEO Compensation](CeoCompensation.md)
+### [Tableau Tutorial](IntroToTableau.md)
 
 
 ### Making my Portfolio Projects
