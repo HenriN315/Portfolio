@@ -15,7 +15,7 @@ I want bolster my ability to communicate about large, complex problems in ways t
 ## Projects & Visualizations
 ### [Kelp Deforestation: How and Why Kelp Forests are Disappearing](https://carnegiemellon.shorthandstories.com/070951e8-c3d6-49d9-8166-4a097fa5b8f1/index.html)
 ### [Klamath River Basin Wetlands Restoration Pilot Program Memo](KlamathMemo.pdf)
-### [Main ST — Mon Valley Community Projects Final Report](Writing%20Sample%20—%20Main%20ST%20-Mon%20Valley%20Community%20Projects%20Analysis%20-%20Final%20Report.pdf)
+### [Main ST — Mon Valley Community Projects Final Report](Main-ST-Report.pdf)
 ### [Modeling Kelp Forest Health](https://carnegiemellon.shorthandstories.com/modeling-kelp-forest-health/index.html)
 ### [Landscape Alteration in Eastern Kentucky](https://henrin315.github.io/Landscape-Alteration-in-Eastern-Kentucky/)
 ### [Kentucky Land Cover Types and UKY Canopy Height](https://henrin315.github.io/geo409-field-trip-maps/)
