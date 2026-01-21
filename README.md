@@ -32,6 +32,7 @@ I want bolster my ability to communicate about large, complex problems in ways t
 ## Making my Portfolio Projects
 ### Open-Ended Nature Crime Project
 [Starting Ideas](starting-ideas-nature-crime.md)
+
 [Notes Catalog](notes-nature-crime.md)
 ### Kelp Deforestation
 [Kelp Deforestation Part 1: Sketching Kelp Forest Health](kelp-proj-HNeblina.md)
