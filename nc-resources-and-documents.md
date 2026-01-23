@@ -3,6 +3,8 @@
 
 [**International Consortium on Combatting Wildlife Crime (ICCWC)**—Tools and Services, Annual Report](https://iccwc-wildlifecrime.org)
 
+[**Quantifind**—Help Prevent Natural Resource Exploitation by Understanding Risks and Red Flags](https://www.quantifind.com/resources/natural-resource-exploitation-risk-card/)
+
 
 
 # Documents
