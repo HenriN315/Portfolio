@@ -1,1 +1,3 @@
+# Nature Crime Project Notes
+## January
 [1/20/2026 - 1/23/2026](nc-notes-1-20-2026.md)
