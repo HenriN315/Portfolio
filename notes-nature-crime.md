@@ -3,3 +3,4 @@
 [1/20/2026—ICCWC Annual Report 2024](nc-notes-ICCWC-Annual-Report-2024.md)
 
 ## February
+[IPBES Global Report on Biodiversity and Ecosystem Services](nc-notes-IPBES-Global-Report.md)
