@@ -51,7 +51,7 @@ Held four Regional Investigative and Analytical Case Meetings (RIACMs) on specif
 
 
 ## Things to follow up on from this document
-* ICCWC Illegal Wildlife Trade Global Conference
+- [ ] ICCWC Illegal Wildlife Trade Global Conference
 * Wildlife Inter-Regional Enforcement Forum
 * Operation Thunder, 2024: 20,000 seizures, 385 suspects arrested
 * Regional Investigative and Analytical Case Meetings (RIACMs)
@@ -66,7 +66,7 @@ Held four Regional Investigative and Analytical Case Meetings (RIACMs) on specif
 * [Paper](https://zenodo.org/records/6417333) related to "direct exploitation": Global assessment report on biodiversity and ecosystem services of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services
 * IUCN Red List
 * [CITES Illegal Trade Database](https://citesdata.un.org) and annual reports
-* World Wildlife Crime Report (WWCR). [Website}(https://www.unodc.org/unodc/en/data-and-analysis/wildlife.html), [Report](https://www.unodc.org/documents/data-and-analysis/wildlife/2024/Wildlife2024_Final.pdf)
+* World Wildlife Crime Report (WWCR). [Website](https://www.unodc.org/unodc/en/data-and-analysis/wildlife.html), [Report](https://www.unodc.org/documents/data-and-analysis/wildlife/2024/Wildlife2024_Final.pdf)
 * [How CITES Works](https://cites.org/eng/disc/how.php); [Appendices](https://cites.org/eng/app/index.php)
 * [CITES Decision 19.90](https://cites.org/eng/dec/index.php/44310)
 * [Outcomes of the CITES Task Force Meeting on Illegal Trade in Specimens of Listed Tree Species](https://cites.org/sites/default/files/EST/rev_CITES_Task_Force_on_illegal_trade_in_specimens_of_tree_species.pdf)
