@@ -34,7 +34,7 @@ I want bolster my ability to communicate about large, complex problems in ways t
 #### Open-Ended Nature Crime Project
 [Starting Ideas](project-notes/nc-notes/nc-brainstorming/starting-ideas-nature-crime.md)
 
-[Notes Catalog](project-notes/nc-notes/landing-page-notes-nature-crime.md)
+[Notes Catalog](landing-page-notes-nature-crime.md)
 
 [Resources & Documents to Investigate](project-notes/nc-notes/nc-resources-and-documents.md)
 ### Past Projects
