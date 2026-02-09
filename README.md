@@ -36,7 +36,7 @@ I want bolster my ability to communicate about large, complex problems in ways t
 
 [Notes Catalog](landing-page-notes-nature-crime.md)
 
-[Resources & Documents to Investigate](project-notes/nc-notes/nc-resources-and-documents.md)
+[Resources & Documents to Investigate](nc-resources-and-documents.md)
 ### Past Projects
 #### Kelp Deforestation
 [Kelp Deforestation Part 1: Sketching Kelp Forest Health](kelp-proj-HNeblina.md)
