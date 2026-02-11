@@ -31,12 +31,8 @@ I want bolster my ability to communicate about large, complex problems in ways t
 
 ## Making my Portfolio Projects
 ### Active Projects
-#### Open-Ended Nature Crime Project
-[Starting Ideas](project-notes/nc-notes/nc-brainstorming/starting-ideas-nature-crime.md)
+#### [Open-Ended Nature Crime Project](https://github.com/HenriN315/Nature-Crime-Project-Brainstorming/tree/main)
 
-[Notes Catalog](landing-page-notes-nature-crime.md)
-
-[Resources & Documents to Investigate](nc-resources-and-documents.md)
 ### Past Projects
 #### Kelp Deforestation
 [Kelp Deforestation Part 1: Sketching Kelp Forest Health](kelp-proj-HNeblina.md)
