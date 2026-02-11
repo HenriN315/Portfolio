@@ -2,7 +2,7 @@
 A collection of projects I've worked on that demonstrate my skills and growth.
 ### [Resume](Henri-Neblina-Resume-10-1-2025.pdf)
 
-## About Me
+# About Me
 Hello! My name is Henri, and I am passionate about the environment. I hope to use environmental policy as a route to changing the way we interact with natural systems, fight climate change, and contribute to a truly sustainable world.
 
 Born and raised in Las Vegas, Nevada, I made a big move to study physics at the University of Kentucky before changing my major to public policy. I learned so much at the Martin School of Public Policy at UKY, and I look forward to continue growing as I complete my masters of public policy at Carnegie Mellon University.
@@ -31,10 +31,10 @@ I want bolster my ability to communicate about large, complex problems in ways t
 
 ## Making my Portfolio Projects
 ### Active Projects
-#### [Open-Ended Nature Crime Project](https://github.com/HenriN315/Nature-Crime-Project-Brainstorming/tree/main)
+[**Open-Ended Nature Crime Project**](https://github.com/HenriN315/Nature-Crime-Project-Brainstorming/tree/main)
 
 ### Past Projects
-#### Kelp Deforestation
+**Kelp Deforestation**
 [Kelp Deforestation Part 1: Sketching Kelp Forest Health](kelp-proj-HNeblina.md)
 
 [Kelp Deforestation Part 2: Storyboarding Kelp Forests](final-part-2.md)
